@@ -1,2 +1,2 @@
-run="phython3 basic/hello.py"
-language="phython3"
+run="python3 basic/hello.py"
+language="python3"
