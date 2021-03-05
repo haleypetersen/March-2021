@@ -1,4 +1,4 @@
-for c "hello world":
-  print(c)
+for c in "hello world":
+ print(c)
 
-  print("End of loop.py")
+print("End of loop.py")

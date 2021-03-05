@@ -1,2 +1,2 @@
-run="python3 basic/hello.py"
+run="python3 basic/loop.py"
 language="python3"
